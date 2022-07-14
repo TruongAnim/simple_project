@@ -7,4 +7,4 @@ if __name__ == "__main__":
     print("add a line 3")
     print("need to stash - finish")
     print("add a new line - done")
-    print("add new feature from GIT")
+    print("add new feature from team")
