@@ -6,3 +6,4 @@ if __name__ == "__main__":
     print("add a line 2")
     print("add a line 3")
     print("need to stash - finish")
+    print("add a new line - done")
